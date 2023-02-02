@@ -1,0 +1,16 @@
+#!/bin/bash
+echo "ALX">>bash/alx
+ls
+cd ..
+clear
+cd bash
+$ cd ..
+cd ~
+echo -e #!/bin/bashnecho ALX
+#!/bin/bash
+echo "ALX" 
+- e #!/bin/bash\necho "ALX" 
+#!/bin/bash
+echo "ALX" 
+#!/bin/bash
+echo "ALX" 
