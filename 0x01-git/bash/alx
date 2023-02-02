@@ -8,9 +8,9 @@ $ cd ..
 cd ~
 echo -e #!/bin/bashnecho ALX
 #!/bin/bash
-echo "ALX" 
+echo "ALX school"                                                                                        
 - e #!/bin/bash\necho "ALX" 
 #!/bin/bash
-echo "ALX" 
+echo "ALX school"
 #!/bin/bash
-echo "ALX" 
+echo "ALX school"
